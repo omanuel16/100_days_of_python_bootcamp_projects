@@ -13,3 +13,12 @@ The table below tracks my daily projects throughout the bootcamp.
 | 02 | **Tip Calculator** (`Calculator_Tip.py`) | Data Types, Mathematical Operations, F-Strings | [View](./Day2/) |
 | 03 | **Treasure Island** (`Treasure_Island.py`) | Conditional Logic (If/Else), Nested Statements | [View](./Day3/) |
 | 04 | **Rock Paper Scissors** (`Project_PaperRockScissors.py`) | Randomization, Python Lists, Indexing | [View](./Day4/) |
+| 05 | **Password Generator** (`Password_Creator.py`) | For Loops, Lists, Random Module, String Manipulation | [View](./Day5/) |
+
+## 📝 Notes and Learning Resources
+
+Additional learning materials, practice exercises, and concept explanations in Jupyter notebook format.
+
+| File | Content Description | Link |
+| :---: | :--- | :---: |
+| `for_loop.ipynb` | For loops concepts, practice exercises, and examples with crypto assets | [View](./notes/for_loop.ipynb) |
